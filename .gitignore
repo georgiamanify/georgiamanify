@@ -1,0 +1,23 @@
+*.pyc
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
+*/*.swp
+*.swp
+tx.tif
+test.tif
+test2.tif
+.DS_Store
+.cache
+build/
+*.egg-info/
+dist/
+.coverage
+.pytest_cache/
+notebooks/warp_tst.tif
+notebooks/*.tif
+
+# Sphinx documentation
+docs/_build/
+docs/*.ipynb
+docs/README.rst
+docs/tiles.png
